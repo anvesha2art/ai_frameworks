@@ -58,10 +58,3 @@ View the app in AI Studio: https://aistudio.google.com/app/prompts?state=%7B%22i
  <img width="300" height="500" alt="Screenshot 2025-12-05 183522" src="https://github.com/user-attachments/assets/2cb131ff-d14e-4631-9442-a7ac149e4efb" />
  <img width="300" height="500" alt="Screenshot 2025-12-05 183621" src="https://github.com/user-attachments/assets/de92a686-77b1-4609-8e86-8cc98537b0c9" />
  <img width="300" height="500" alt="Screenshot 2025-12-05 183651" src="https://github.com/user-attachments/assets/cab911a7-5842-40c4-bfb2-2caec51eb40e" />
-
-
-
-
-
-
-
