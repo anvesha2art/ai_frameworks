@@ -35,7 +35,7 @@ View the app in AI Studio: https://aistudio.google.com/app/prompts?state=%7B%22i
 1) Multi Exam Toggling: I created a system with a dedicated toggle button for Jee, Neet, Clat and Cuet, allowing users to switch models easily, making it an ll in one platform.
 2) Accurate Prediction: I design the AI promt to factor in marks, percentile, gender and caste for better rank prediction. This was crucial for achieving the real time accuracy for the Indian admission process.
 3) College recommendation: I insured the AI not only predicted the rank but also suggested the colleges and branch, the user is likely to get into, turning the rank predictor into a valuable counselling tool.
-4) Colour Theme: I assigned a specific appealing colour theme to each exam toggle, making the app visually appealing.
+4) Color Theme: I assigned a specific appealing color theme to each exam toggle, making the app visually appealing.
 
 **Run the AI Studio app:**
 View the app in AI Studio: https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221AUtmftZPPGmvA12FL19OVtFIH9t7MUgs%22%5D,%22action%22:%22open%22,%22userId%22:%22118124178797489535155%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
@@ -49,7 +49,7 @@ View the app in AI Studio: https://aistudio.google.com/app/prompts?state=%7B%22i
 **Key Features:**
 1) Game Store: I added collectible coins and life keys during gameplay, a fully functional store with options for skin, accessories and background, all purchasable with collected coins. This transformed the sample game into a much more engaging product with long term retention goal. 
 2) Dynamic audio: I added custom hooks using web audio API to generate a custom background music loop melody and unique sound effects for jumping, collecting and crashing.
-3) Cinematic Visuals: I introduced a parallax background effect where distant clouds move slower than near objects giving the game a sense of depth and speed. The cinematic and dynamic field making the visual much more appealing.
+3) Cinematic Visuals: I introduced a parallax background effect where distant clouds move slower then near objects. The cinematic and dynamic field making the visual much more appealing.
 4) Revive mechanics: I implemented the ability to use collected life coins after a crash for an instant revive.
 
  **Run the AI Studio app:**
