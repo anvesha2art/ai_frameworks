@@ -31,10 +31,10 @@ View the app in AI Studio: https://aistudio.google.com/app/prompts?state=%7B%22i
 <img width="1000" height="500" alt="Screenshot 2025-12-05 173137" src="https://github.com/user-attachments/assets/80f65957-0d08-42cf-8ad5-85e97582b047" />
 
 # 3. RankRadar AI
-**Key Features:**
-1) Multi Exam Toggling: I created a system with a dedicated toggle button for JEE, NEET, CLAT and CUET, allowing users to switch models easily, making it an all in one platform.
-2) Accurate Prediction: I design the AI prompt to factor in marks, percentile, gender and caste for better rank prediction. This was crucial for achieving the real time accuracy for the Indian admission process. 
-3) College recommendation: I insured the AI not only predicted the rank but also suggested the colleges and branch, the user is likely to get into, turning the rank predictor into a valuable counselling tool. 
+**Key Features**
+1) Multi Exam Toggling: I created a system with a dedicated toggle button for Jee, Neet, Clat and Cuet, allowing users to switch models easily, making it an ll in one platform.
+2) Accurate Prediction: I design the AI promt to factor in marks, percentile, gender and caste for better rank prediction. This was crucial for achieving the real time accuracy for the Indian admission process.
+3) College recommendation: I insured the AI not only predicted the rank but also suggested the colleges and branch, the user is likely to get into, turning the rank predictor into a valuable counselling tool.
 4) Colour Theme: I assigned a specific appealing colour theme to each exam toggle, making the app visually appealing.
 
 **Run the AI Studio app:**
